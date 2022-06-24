@@ -1,2 +1,2 @@
 # Dynamic-Salome-Models
-This script is a workaround for potential parametric modelling in Salome. Salome does not allow dynamic references in their *.py dump file. This program passes design table values taken from a simple spreadsheet and implements them into an executable Salome *.py file via a serialized JSON format.
+This script is the beginning of a project to automate parametric CAD modelling and meshing in Salome, an open source CAD platform for numerical simulations. Salome does not allow dynamic references in their .py dump files. This program passes design table values taken from a simple spreadsheet and implements them into an executable Salome .py file via a serialized JSON format.
